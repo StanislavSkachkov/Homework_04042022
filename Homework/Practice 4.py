@@ -7,5 +7,3 @@ while x > 10:
     if z > y:
         y = z
 print(y)
-
-
