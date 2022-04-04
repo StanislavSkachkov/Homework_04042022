@@ -1,4 +1,4 @@
-incomming = int(input('Внесите значение выручки'))
+incomming = int(input('Внесите значение выручки')) # запрос выручки
 oper_cost = int(input('Внесите значение издержек'))
 profit = incomming - oper_cost # расчет прибыли
 
