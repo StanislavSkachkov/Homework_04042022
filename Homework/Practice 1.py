@@ -7,5 +7,5 @@ print(user_age)
 user_name_request = input('Введите Ваше имя.') # запрос у пользователя
 user_age_request = int(input('Введите Ваш возраст'))
 
-print (f'Добрый день, {user_name_request}') # вывод на экран
+print (f'Добрый день, {user_name_request}')
 print(f'Вам {user_age_request} лет')
